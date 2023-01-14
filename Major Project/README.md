@@ -9,3 +9,5 @@ Data Description: For this problem, we use the MNIST data which is a large datab
 Since each image is of 28 x 28 pixels, and each pixel forms a feature, there are 784 features. MNIST digit recognition is a well-studied problem in the ML community, and people have trained numerous models (Neural Networks, SVMs, boosted trees etc.) achieving error rates as low as 0.23% (i.e. accuracy = 99.77%, with a convolutional neural network). Before the popularity of neural networks, though, models such as SVMs and boosted trees were the state-of-the-art in such problems.
 
 In this project, trying to experiment with various hyperparameters in SVMs. With a sub-sample of 10-20% of the training data, we should expect to get an accuracy of more than 90%.
+
+Link to the csv file: https://www.kaggle.com/datasets/dipayanbiswas/parkinsons-disease-speech-signal-features?select=pd_speech_features.csv
